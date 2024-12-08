@@ -39,5 +39,5 @@ Simulates the behavior of the Emercast system in a city center emergency scenari
 ### [Script Utils](https://github.com/ben-strobel-master-thesis/script-utils)
 Contains scripts for running batch simulations with a variety of parameters and for analyzing the logs and creating graphs out of them.
 
-### [Bluetooth Low Energy Analysis Instructions](https://github.com/ben-strobel-master-thesis/android-experiment-ble)
+### [Bluetooth Low Energy Analysis Instructions](https://github.com/ben-strobel-master-thesis/emercast-ble-sniffer-analysis)
 Contains documentation how to sniff/intercept the BLE communication of the Android Application for analysis.
