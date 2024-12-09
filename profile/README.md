@@ -3,21 +3,8 @@ This is the GitHub organisation containing all repositories for my masters thesi
 
 ## Thesis Abstract
 
-Cell broadcast is used by many countries to warn their citizens of severe threats
-like environmental disasters or nuclear attacks. This technology relies on cell
-towers that can only connect to devices in their range and that can be affected
-by the disasters themselves. This can lead to regions in the affected area, where
-no emergency broadcasts can be received and where people could therefore be
-unaware of the warning or information provided by the broadcast.
-This thesis proposes the "Emercast" system to augment Cell broadcast by establishing 
-an opportunistic network between end user devices, that allows to store
-and forward emergency broadcasts via peer to peer connections. It provides
-and discusses a prototype implementation and analyses the systems potential
-impact. It does so by simulating emergency scenarios and how Emercast could contribute
-to warn people in affected areas. It aims to serve as a baseline for a discussion
-about implementing such a system in major smartphone operating systems and
-highlights further topics of research that could be instrumental to adequately
-assess the viability of such a system.
+Cell broadcast is a system that many countries use to warn their citizens of severe threats like environmental disasters or nuclear attacks. It uses cell towers to broadcast messages to devices in their range. However, these cell towers can be affected by the same disasters they are supposed to warn about. This can lead to regions in the disaster area where no emergency broadcasts can be received and where people could, therefore, be unaware of the warning or information provided by the broadcast. <br>
+This thesis proposes the "Emercast" system to augment Cell broadcast by establishing an opportunistic network between end-user devices that forwards emergency broadcasts via peer-to-peer connections. It provides and discusses a prototype implementation and demonstrates that the proposed system can significantly improve broadcast dissemination within the affected area. It does so by simulating emergency scenarios and how the Emercast acts to spread emergency broadcasts to the devices in affected areas. It aims to serve as a baseline for a discussion about implementing such a system in major smartphone operating systems. It highlights further topics of research that could be instrumental to adequately assess the viability of such a system.
 
 ## Repositories
 
