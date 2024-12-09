@@ -1,5 +1,5 @@
 # Ben Strobel Master Thesis
-This is the GitHub organisation containing all repositories for my masters thesis. Its purpose is to provide a single entry point for accessing all code that was created as part of my thesis.
+This is the GitHub organisation containing all repositories for my masters thesis. Its purpose is to provide a single entry point for accessing all code and documentation that was created as part of my thesis.
 
 ## Thesis Abstract
 
