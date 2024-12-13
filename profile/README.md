@@ -8,14 +8,14 @@ This thesis proposes the "Emercast" system to augment Cell broadcast by establis
 
 ## Repositories
 
+### [Android Application](https://github.com/ben-strobel-master-thesis/emercast-android)
+Installed on end user devices. Is notified by backend when new emergency notifications have been dispatched. Spreads emergency notifications to other instances of the Android Application via a Bluetooth Low Energy peer to peer exchange.
+
 ### [Backend](https://github.com/ben-strobel-master-thesis/emercast-backend)
 The central component that allows authorities to manage other authorities and create emergency notifications
 
 ### [Frontend](https://github.com/ben-strobel-master-thesis/emercast-webinterface)
 Provides a user interface for the backend. Primary entry point for authorities.
-
-### [Android Application](https://github.com/ben-strobel-master-thesis/emercast-android)
-Installed on end user devices. Is notified by backend when new emergency notifications have been dispatched. Spreads emergency notifications to other instances of the Android Application via a Bluetooth Low Energy peer to peer exchange.
 
 ### [Api Specification](https://github.com/ben-strobel-master-thesis/emercast-api)
 Specifies the REST interface for the backend and the protobuf definitions used for serialization. Is used for generating server stubs in the backend, api connectors in the frontend and api connectors and serializers in the Android Application.
