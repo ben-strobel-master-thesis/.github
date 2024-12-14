@@ -1,6 +1,8 @@
 # Ben Strobel Master Thesis
 This is the GitHub organisation containing all repositories for my masters thesis. Its purpose is to provide a single entry point for accessing all code and documentation that was created as part of my thesis.
 
+The thesis is available as a [pdf](https://cdn.benstrobel.de/master-thesis/thesis.pdf)
+
 ## Thesis Abstract
 
 Cell Broadcast is a system that many countries use to warn their citizens of severe threats like environmental disasters or nuclear attacks. It uses cell towers to broadcast messages to devices in their range. However, these cell towers can be affected by the same disasters they are supposed to warn about. This can lead to regions in the disaster area where no emergency broadcasts can be received and where people could, therefore, be unaware of the warning or information provided by the broadcast. <br>
